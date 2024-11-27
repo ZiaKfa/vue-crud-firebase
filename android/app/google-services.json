@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28289818269",
+    "project_id": "praktikum-vue-firebase",
+    "storage_bucket": "praktikum-vue-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28289818269:android:40ba982b3ea8a3e94dbe74",
+        "android_client_info": {
+          "package_name": "com.prak.vuecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28289818269-qjsvve68juq0unqi0c70vtdqafbh0ade.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prak.vuecrud",
+            "certificate_hash": "686592df0b7378e6e9573b6093e8c1fb2b850185"
+          }
+        },
+        {
+          "client_id": "28289818269-gtpd9u3odjc19nnn24rjlom0eouu89am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSiecV_JMMVCGLd9nmfbWG-niSIdFWtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28289818269-9tnu2is1959fms3rbehvf0jadij3pdou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
